@@ -1,2 +1,2 @@
 # Haberman-Data-Analysis
-Data Analysis on Haberman Dataset
+Exploratory Data Analysis of Haberman Dataset
